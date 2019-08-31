@@ -1,6 +1,8 @@
-require "kallisto_view_tool/version"
+# frozen_string_literal: true
+
+require 'kallisto_view_tool/version'
+require 'kallisto_view_tool/renderer'
 
 module KallistoViewTool
-  class Error < StandardError; end
   # Your code goes here...
 end
