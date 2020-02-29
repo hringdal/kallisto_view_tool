@@ -18,7 +18,7 @@ GEM
     parser (2.6.4.0)
       ast (~> 2.4.0)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (13.0.1)
     reverse_markdown (1.2.0)
       nokogiri
     rubocop (0.74.0)
@@ -53,7 +53,7 @@ DEPENDENCIES
   bundler (~> 2.0)
   kallisto_view_tool!
   minitest (~> 5.0)
-  rake (~> 10.0)
+  rake (~> 13.0)
   solargraph
 
 BUNDLED WITH
